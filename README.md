@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto.
 
 ## Aprendizado do módulo
  - Comandos do Terminal;
- - 
+
 git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
 git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
