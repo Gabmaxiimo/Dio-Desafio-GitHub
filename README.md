@@ -3,9 +3,10 @@ Repositório criado para o Desafio de Projeto.
 
 ## Aprendizado do módulo
  - Comandos do Terminal;
-**git init:** inicializa um repositório local git
-**git status:** verifica o estado dos seus arquivos
-**git add** <nomeDoArquivo>: envia seu arquivo especificado para o Stage
+ - 
+git init: inicializa um repositório local git
+git status: verifica o estado dos seus arquivos
+git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
 git add - -all: envia todos os arquivos para o Stage
 git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
 git remote add origin urlDoRepositorio : adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
