@@ -3,13 +3,13 @@ Repositório criado para o Desafio de Projeto.
 
 ## Aprendizado do módulo
  - Comandos do Terminal;
-*git init:* inicializa um repositório local git
-*git status:* verifica o estado dos seus arquivos
-*git add <nomeDoArquivo>:* envia seu arquivo especificado para o Stage
-*git add - -all:* envia todos os arquivos para o Stage
-*git commit -m “tituloDoCommit:* envia o que está no Stage para o HEAD
-*git remote add origin urlDoRepositorio:* adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
-*git push origin master:* envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
+**git init:** inicializa um repositório local git
+**git status:** verifica o estado dos seus arquivos
+**git add** <nomeDoArquivo>: envia seu arquivo especificado para o Stage
+git add - -all: envia todos os arquivos para o Stage
+git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
+git remote add origin urlDoRepositorio : adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
+git push origin master: envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
 
   - Enviando para o repositório remoto;
  1. Se você ainda não tem, crie um repositório remoto, pode ser no GitHub, GitLab ou qualquer outro de sua preferência.
